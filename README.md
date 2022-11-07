@@ -11,7 +11,7 @@ There's some special things about it:
 - You can see daily and hourly weather in real time.
 - You can find your city or place (not ready, still in process)
 - Planning to add: MapKit, CoreData, searcbar, language localization, screen with favourite places.
-- Planning to improve: code, UI/UX, GCD & Memory management
+- Planning to improve: code, update UI, GCD & Memory management
 
 <h1 align="center">
   Technology stack 💻
